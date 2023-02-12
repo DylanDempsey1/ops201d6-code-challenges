@@ -30,7 +30,7 @@ while true; do
   read
 done
 
-echo "Well thst was fun!"
+echo "Well that was fun!"
 
 # End 
 
