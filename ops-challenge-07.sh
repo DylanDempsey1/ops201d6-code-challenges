@@ -7,4 +7,6 @@
 
 # Main
 
-sudo lshw 
+sudo lshw | grep -Em2 *
+
+# End 
