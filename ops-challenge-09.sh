@@ -30,3 +30,7 @@ Get-WinEvent -FilterHashtable @{LogName='System'} -MaxEvents 20
 
 # Print to the screen all sources of the 500 most recent entries in the System event log
 Get-WinEvent -FilterHashtable @{LogName='System'} -MaxEvents 500 | Select-Object -Property ProviderName -Unique | Format-Table -Wrap
+
+# End 
+
+#ChatGPT was referenced for this script
