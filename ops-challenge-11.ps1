@@ -54,3 +54,5 @@ Set-SmbServerConfiguration -EnableSMB1Protocol $false -Force
 # Enable Script Execution
 
 powershell.exe Set-ExecutionPolicy Bypass -Force
+
+# End
