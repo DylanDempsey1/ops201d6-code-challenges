@@ -3,7 +3,7 @@
 # Ops 201 Code Challenge 13
 # Dylan Dempsey
 # 02/22/23
-# 
+# Create a script that asks a user to type a domain, then displays information about the typed domain.
 
 # Define the whois_lookup function
 function whois_lookup() {
@@ -39,3 +39,5 @@ function main() {
 
 # Call the main function
 main
+
+# End 
