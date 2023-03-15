@@ -4,9 +4,9 @@
 
 This repo contains a series of code challenges I was assigned during my time at Code Fellows attending the course "Ops 201". Enjoy!
 
-## Why are you learning these skills?
+## Why am I learning these skills?
 
-I learned the skill of scripting for a few reasons. Scripting allows one to automate routine tasks, such as vulnerability scanning and system administration. It also allows for a more rapid response to a security incident such as malicious files and running processes. 
+I am learning the skill of scripting for a few reasons. Scripting allows one to automate routine tasks, such as vulnerability scanning and system administration. It also allows for a more rapid response to a security incident such as malicious files and running processes. 
 
 ## What fundamental concepts did you learn in Ops 201?
 
